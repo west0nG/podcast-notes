@@ -1,0 +1,20 @@
+shows:
+  - name: "屠龙之术"
+    slug: "tu-long-zhi-shu"
+    rss: "https://feed.xyzfm.space/834hyx3v9k74"
+    language: "zh"
+
+  - name: "AI炼金术"
+    slug: "ai-lian-jin-shu"
+    rss: "https://www.ximalaya.com/album/74194808.xml"
+    language: "zh"
+
+  - name: "十字路口Crossing"
+    slug: "shi-zi-lu-kou"
+    rss: "https://feed.xyzfm.space/68fyjknth9hj"
+    language: "zh"
+
+  - name: "The Pragmatic Engineer"
+    slug: "the-pragmatic-engineer"
+    rss: "https://api.substack.com/feed/podcast/458709.rss"
+    language: "en"
